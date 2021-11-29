@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Programming/PESC_FPGA/L2_Ph3_L2_Ph3_SM/L2_Ph3_L2_Ph3_SM.hw/hw_1/wave/hw_ila_data_2/hw_ila_data_2.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1002989fs"></ZoomEndTime>
+      <Cursor1Time time="89000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="220"></NameColumnWidth>
+      <ValueColumnWidth column_width="125"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="60" />
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BRESP" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_BRESP[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_WREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst[1:1]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awburst[1:1]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TLAST</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_AWREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TDATA" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TDATA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TKEEP" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TKEEP[3:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TKEEP[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awaddr" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awaddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awaddr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst_1[0:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awburst_1[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen_1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awlen_1[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize_1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awsize_1[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_AWVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_BREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WLAST</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_WLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen[7:5]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awlen[7:5]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize[2:2]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awsize[2:2]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_1</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_1_cpllpd_wait_reg" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_1_cpllpd_wait_reg[95:95]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_1_cpllpd_wait_reg[95:95]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_BVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_WVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_wdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_wdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_wstrb" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_wstrb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_wstrb[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_2" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_2</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_2</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_3" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_3</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_3</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_4" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_4</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_4</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_1_S02_AXI_awcache" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_1_S02_AXI_awcache[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_1_S02_AXI_awcache[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_1_S02_AXI_awcache[0]_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_1_S02_AXI_awcache[0]_1</obj_property>
+      <obj_property name="ObjectShortName">u_ila_1_S02_AXI_awcache[0]_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_AWREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_AWVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_BREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BRESP" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_BRESP[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_BVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_BVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WLAST</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_WLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_WREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_dma_0_M_AXI_S2MM_WVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXI_S2MM_WVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TDATA" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TDATA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TKEEP" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TKEEP[3:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TKEEP[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TLAST</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/axi_s_chain_link_swi_0_node_in1_axis_TVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_s_chain_link_swi_0_node_in1_axis_TVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awaddr" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awaddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awaddr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst[1:1]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awburst[1:1]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awburst_1[0:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awburst_1[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen[7:5]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awlen[7:5]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awlen_1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awlen_1[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize[2:2]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awsize[2:2]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_awsize_1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_awsize_1[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_wdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_wdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/gigabit_block/sfp_0_1/S02_AXI_wstrb" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/gigabit_block/sfp_0_1/S02_AXI_wstrb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S02_AXI_wstrb[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_1</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_2" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_2</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_2</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_3" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_3</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_3</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_m_axi_sg_awaddr[0]_4" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_m_axi_sg_awaddr[0]_4</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_m_axi_sg_awaddr[0]_4</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_1_cpllpd_wait_reg" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_1_cpllpd_wait_reg[95:95]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_1_cpllpd_wait_reg[95:95]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_1_S02_AXI_awcache" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_1_S02_AXI_awcache[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_1_S02_AXI_awcache[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_1_S02_AXI_awcache[0]_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_1_S02_AXI_awcache[0]_1</obj_property>
+      <obj_property name="ObjectShortName">u_ila_1_S02_AXI_awcache[0]_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>
